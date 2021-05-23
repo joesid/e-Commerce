@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="92" viewBox="0 0 854 92">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        font-size: 100px;
+        font-family: "Myriad Pro";
+      }
+
+      .cls-2 {
+        fill: #f09d51;
+      }
+
+      .cls-3 {
+        opacity: 0;
+      }
+    </style>
+  </defs>
+  <text id="Joe_s_Furnitures" data-name="Joe‘s Furnitures" class="cls-1" x="73" y="75">Joe‘s <tspan class="cls-2">Furnitures</tspan></text>
+  <text id="Joe_s_Furnitures-2" data-name="Joe‘s Furnitures" class="cls-3" x="73" y="-25">Joe‘s <tspan class="cls-2">Furnitures</tspan></text>
+</svg>
